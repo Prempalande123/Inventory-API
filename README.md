@@ -35,3 +35,8 @@ POST `/api/token/`
   "username": "your_username",
   "password": "your_password"
 }
+
+### 2.  Documented APIs using Swagger UI and ReDoc for interactive and comprehensive API reference
+
+1) http://127.0.0.1:8000/swagger/
+2) http://127.0.0.1:8000/redoc/
