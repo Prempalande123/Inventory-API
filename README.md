@@ -26,7 +26,7 @@ A RESTful API built using **Django** and **Django REST Framework (DRF)** to mana
 
 ## 🔐 Authentication
 
-### 1. Obtain Token
+ Obtain Token
 
 POST `/api/token/`
 
@@ -36,7 +36,8 @@ POST `/api/token/`
   "password": "your_password"
 }
 
-### 2.  Documented APIs using Swagger UI and ReDoc for interactive and comprehensive API reference
+## API DOCUMENTATION :
+Documented APIs using Swagger UI and ReDoc for interactive and comprehensive API reference
 
 1) http://127.0.0.1:8000/swagger/
 2) http://127.0.0.1:8000/redoc/
